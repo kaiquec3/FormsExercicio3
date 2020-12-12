@@ -1,0 +1,10 @@
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\bin\Debug\FormsExercício3.exe.config
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\bin\Debug\FormsExercício3.exe
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\bin\Debug\FormsExercício3.pdb
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\obj\Debug\FormsExercício3.Form1.resources
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\obj\Debug\FormsExercício3.Properties.Resources.resources
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\obj\Debug\FormsExercício3.csproj.GenerateResource.cache
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\obj\Debug\FormsExercício3.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\obj\Debug\FormsExercício3.exe
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\obj\Debug\FormsExercício3.pdb
+C:\Users\altas\source\repos\FormsExercício3\FormsExercício3\obj\Debug\FormsExercício3.csprojAssemblyReference.cache
